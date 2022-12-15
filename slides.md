@@ -179,7 +179,7 @@ preload: false
 - **オンラインでできるサービス**を作ろう！
 </v-clicks>
 
-<img class="absolute right-20 top-30 w-70" src=" images/undraw_in_thought_re_qyxl.svg">
+<img class="absolute right-20 top-30 w-70" src="/images/undraw_in_thought_re_qyxl.svg">
 
 
 ---
