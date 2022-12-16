@@ -158,7 +158,7 @@ preload: false
 
 <div class="h-12" />
 
-# Admin Panelで一発チェック
+# 管理パネルで一発チェック
 
 <div class="h-4"/>
 
