@@ -4,6 +4,9 @@ class: 'text-center'
 ---
 
 # 点呼の現状
+<!--
+この，点呼の現状ですが―
+-->
 
 ---
 
@@ -49,7 +52,9 @@ class: 'text-center'
 <img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052935350290501683/IMG_8907.JPG?width=461&height=615">
 
 </div>
-
+<!--
+点呼当番が全フロアを巡回するといった，かなりの重労働を必要としています．これらの問題の解決を図るのが―
+-->
 
 ---
 layout: center
@@ -64,6 +69,10 @@ preload: false
 
 <h1 class="flex"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-40"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-40"></h1>
 </div>
+
+<!--
+TENTENです
+-->
 
 ---
 preload: false
@@ -91,6 +100,7 @@ preload: false
 </div>
 </div>
 
+
 [^1]: [1] 点呼時間(点呼を受け付ける時間帯)はあります
 [^2]: [2] メンバーのテスト実施による平均値です
 <style>
@@ -107,6 +117,9 @@ h1 {
 
 <img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052933734296453191/IMG_8899.JPG?width=461&height=615">
 
+<!--
+TENTENでは，点呼時間内であれば自由な時間に点呼を実施することができ，
+-->
 ---
 preload: false
 ---
@@ -144,6 +157,10 @@ h1 {
 
 <img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052934534963941416/IMG_8904.JPG?width=461&height=615">
 
+<!--
+寒い廊下に出る必要もなくなり，
+-->
+
 ---
 preload: false
 ---
@@ -180,3 +197,7 @@ h1 {
 </style>
 
 <img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052975731661078578/IMG_20221216_004854.jpg?width=460&height=615">
+
+<!--
+点呼未実施者を全フロア回ることなく確認でき，寮生教員ともに「びっくり！」する点呼エクスペリエンスを実現します
+-->
