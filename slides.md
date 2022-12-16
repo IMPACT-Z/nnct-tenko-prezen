@@ -503,7 +503,7 @@ preload: false
 </div>
 
 
-<video class="absolute right-10 top-5 h-120" autoplay loop contorls>
+<video class="absolute right-10 top-5 h-120" autoplay loop controls>
   <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235.mp4" >
 </video>
 
@@ -521,7 +521,62 @@ h1 {
 
 
 ---
+layout: center
+class: 'text-center'
+preload: false
+---
 
+
+<div v-motion
+  :initial="{ x: -80 }"
+  :enter="{ x: 0 }">
+
+## 今後の展望
+# ユーザーからの評価
+</div>
+
+---
+preload: false
+---
+
+## ユーザーからの評価
+# 良い評価
+
+
+<div v-motion
+  :initial="{ x: -80 }"
+  :enter="{ x: 0 }">
+
+- うおおすげえ
+- 明るいと割とうまくいく
+- 声がかわいい
+- 次の指示で振動するのがわかりやすい
+- **使う分には問題なさそう**
+
+
+</div>
+
+---
+preload: false
+---
+
+
+## ユーザーからの評価
+# 改善点
+
+
+<div v-motion
+  :initial="{ x: -80 }"
+  :enter="{ x: 0 }">
+
+- 方向を指示するイラストがあるとわかりやすい
+- iPhoneでも動くようにしてほしい
+- 声がかぶるのが良くない
+- なにか点呼で問題があったときの報告フォームみたいなのがほしい
+- 寮ネットが使えないひとはどうするのか
+
+
+</div>
 
 <!--
 
