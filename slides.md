@@ -531,7 +531,6 @@ preload: false
   :initial="{ x: -80 }"
   :enter="{ x: 0 }">
 
-## 今後の展望
 # ユーザーからの評価
 </div>
 
@@ -581,6 +580,26 @@ preload: false
 </div>
 
 <img class="absolute right-10 top-35 h-60" src="/images/undraw_access_denied_re_awnf.svg">
+
+---
+
+# 今後の展望
+- どうしたい
+- こうしたい
+
+<img class="absolute right-10 top-35 h-60" src="/images/undraw_flowers_vx06.svg">
+
+---
+layout: center
+class: text-center
+---
+
+<h1 class="flex pb-4"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-40"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-40"></h1>
+
+
+## 衝撃のイナズマZ / IMPACT-Z
+
+ご清聴ありがとうございました
 
 <!--
 
