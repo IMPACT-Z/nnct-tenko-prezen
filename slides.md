@@ -292,6 +292,9 @@ preload: false
 
 </v-clicks>
 
+
+<img class="absolute right-10 top-30 w-100" src="/images/undraw_questions_re_1fy7.svg">
+
 <!--
 これらの問題を解決し，実際に点呼をオンラインでできるようにしたサービス，それが
 -->
