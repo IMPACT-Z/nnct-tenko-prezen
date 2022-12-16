@@ -154,32 +154,14 @@ preload: false
 
 ---
 
-
 <div v-motion
   :initial="{ x: -80 }"
   :enter="{ x: 0 }">
 
-# 背景
+<h1 class="flex mb-5">What's <span class="flex mx-2"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-10"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-10"></span>？</h1>
 
-  <img width="200" src="/images/undraw_in_thought_re_qyxl.svg">
+
 </div>
-
----
-
-# 背景
-
-<v-clicks>
-
-- 現在，寮では毎晩**在寮生**に対する**点呼**
-  - 決まった時間 => **寝たい**...
-
-  - 廊下に出て対面 => **寒い**...**対面**...
-  
-  - 点呼当番が巡回 => **割と重労働**...
-- **オンラインでできるサービス**を作ろう！
-</v-clicks>
-
-<img class="absolute right-20 top-30 w-70" src="/images/undraw_in_thought_re_qyxl.svg">
 
 
 ---
@@ -187,6 +169,25 @@ layout: center
 class: 'text-center'
 preload: false
 
+---
+
+<div v-motion
+  :initial="{ x: -80 }"
+  :enter="{ x: 0 }">
+
+
+# A. オンライン点呼サービス
+
+</div>
+
+
+---
+src: ./pages/cm.md
+
+---
+layout: center
+class: 'text-center'
+preload: false
 ---
 
 
