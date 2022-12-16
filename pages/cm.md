@@ -3,13 +3,13 @@ layout: center
 class: 'text-center'
 ---
 
-# 今までの点呼
+# 点呼の現状
 
 ---
 
 <div class="mt-35 text-center pr-100">
 
-## 今までの点呼
+## 点呼の現状
 # 決まった時間
 
 <div class="h-4"/>
@@ -24,7 +24,7 @@ class: 'text-center'
 
 <div class="mt-35 text-center pr-100">
 
-## 今までの点呼
+## 点呼の現状
 # 廊下に出て対面
 
 <div class="h-4"/>
@@ -40,7 +40,7 @@ class: 'text-center'
 
 <div class="mt-35 text-center pr-100">
 
-## 今までの点呼
+## 点呼の現状
 # 点呼当番が巡回
 <div class="h-4"/>
 
@@ -83,7 +83,7 @@ preload: false
 
 <div class="h-4"/>
 
-## **所要3分未満**！睡眠時間を取り戻そう
+## **所要3分未満**[^2] ですぐ寝れる！(びっくり)
 
 <div class="h-30"/>
 
@@ -91,8 +91,8 @@ preload: false
 </div>
 </div>
 
-[^1]: 点呼時間(点呼を受け付ける時間帯)はあります
-
+[^1]: [1] 点呼時間(点呼を受け付ける時間帯)はあります
+[^2]: [2] メンバーのテスト実施による平均値です
 <style>
 h1 {
   background-color: #2B90B6;
@@ -125,7 +125,7 @@ preload: false
 
 <div class="h-4"/>
 
-## これでもう風邪をひきません
+## これでもう風邪をひきません！(びっくり)
 
 </div>
 </div>
@@ -162,7 +162,7 @@ preload: false
 
 <div class="h-4"/>
 
-## これでもう風邪をひきません
+## 点呼未実施者がまるわかり！(びっくり)
 
 </div>
 </div>
@@ -180,5 +180,3 @@ h1 {
 </style>
 
 <img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052975731661078578/IMG_20221216_004854.jpg?width=460&height=615">
-
----

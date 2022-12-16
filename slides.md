@@ -180,16 +180,24 @@ preload: false
 
 </div>
 
+---
+layout: center
+class: text-center
+---
+
+## 寮点呼とは？
+# A. 学生の在寮を確認する
 
 ---
 src: ./pages/cm.md
+
+---
 
 ---
 layout: center
 class: 'text-center'
 preload: false
 ---
-
 
 <div v-motion
   :initial="{ x: -80 }"
@@ -428,7 +436,10 @@ preload: false
 </div>
 
 
-<img class="absolute right-10 top-35 w-80" src="/images/undraw_security_on_re_e491(1).svg">
+<video class="absolute right-10 top-5 h-120" autoplay loop>
+  <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235(1).mp4" >
+</video>
+
 
 <style>
 h1 {
@@ -485,7 +496,9 @@ preload: false
 </div>
 
 
-<img class="absolute right-10 top-35 w-80" src="/images/undraw_security_on_re_e491(1).svg">
+<video class="absolute right-10 top-5 h-120" autoplay loop>
+  <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235.mp4" >
+</video>
 
 <style>
 h1 {
@@ -501,185 +514,7 @@ h1 {
 
 
 ---
-layout: center
-class: 'text-center'
----
 
-# 今までの点呼
-
----
-
-<div class="mt-35 text-center pr-100">
-
-## 今までの点呼
-# 決まった時間
-
-<div class="h-4"/>
-
-## 寝たい...
-
-</div>
-
-<img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052934198962434078/IMG_8901.JPG?width=461&height=615">
-
----
-layout: center
-class: 'text-center'
-preload: false
----
-
-
-<div v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-
-<h1 class="flex"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-40"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-40"></h1>
-</div>
-
----
-preload: false
----
-
-<div v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-
-<div class="mt-35 text-center pr-100">
-
-<h1 class="flex mr-auto absolute left-45"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-8"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-8"></h1>
-
-<div class="h-12" />
-
-# 好きな時間
-
-<div class="h-4"/>
-
-## **所要3分未満**！睡眠時間を取り戻そう
-
-</div>
-</div>
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #505000 10%, #C0C000 60%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-<img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052934534963941416/IMG_8904.JPG?width=461&height=615">
-
----
-layout: center
-class: 'text-center'
----
-
-# 今までの点呼
-
----
-
-<div class="mt-35 text-center pr-100">
-
-## 今までの点呼
-# 廊下に出て対面
-
-<div class="h-4"/>
-
-## 寒い...
-
-<img class="absolute right-10 top-10 h-115"  src="https://media.discordapp.net/attachments/719199923782025257/1052934192733892628/IMG_8891.JPG?width=461&height=615">
-
-</div>
-
----
-layout: center
-class: 'text-center'
-preload: false
----
-
-
-<div v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-
-<h1 class="flex"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-40"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-40"></h1>
-</div>
-
----
-preload: false
----
-
-<div v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-
-<div class="mt-35 text-center pr-100">
-
-<h1 class="flex mr-auto absolute left-45"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-8"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-8"></h1>
-
-<div class="h-12" />
-
-# 室内でOK
-
-<div class="h-4"/>
-
-## これでもう風邪をひきません
-
-</div>
-</div>
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #505000 10%, #C0C000 60%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-<img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052934534963941416/IMG_8904.JPG?width=461&height=615">
-
----
-layout: center
-class: 'text-center'
----
-
-# 今までの点呼
-
----
-
-<div class="mt-35 text-center pr-100">
-
-## 今までの点呼
-# 点呼当番が巡回
-<div class="h-4"/>
-
-## 割と重労働...
-
-<img class="absolute right-10 top-10 h-115" src="https://media.discordapp.net/attachments/719199923782025257/1052935350290501683/IMG_8907.JPG?width=461&height=615">
-
-</div>
-
----
-layout: center
-class: 'text-center'
-preload: false
----
-
-
-<div v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-
-<h1 class="flex"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-40"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-40"></h1>
-</div>
 
 <!--
 
