@@ -556,6 +556,8 @@ preload: false
 
 </div>
 
+<img class="absolute right-10 top-35 h-60" src="/images/undraw_order_confirmed_re_g0if.svg">
+
 ---
 preload: false
 ---
@@ -577,6 +579,8 @@ preload: false
 
 
 </div>
+
+<img class="absolute right-10 top-35 h-60" src="/images/undraw_access_denied_re_awnf.svg">
 
 <!--
 
