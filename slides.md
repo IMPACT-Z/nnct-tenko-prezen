@@ -280,17 +280,21 @@ preload: false
 </div>
 
 ---
+preload: false
+---
 
 ## 解決すべき問題
 # どんな問題があるか？
 
-<v-clicks>
+<div v-motion
+  :initial="{ x: -80 }"
+  :enter="{ x: 0 }">
 
 - **寮にいるのか？**
 - **本人が**おこなっているのか？
 - そのオペレーションは**人間によるもの**か？
 
-</v-clicks>
+</div>
 
 
 <img class="absolute right-10 top-30 w-100" src="/images/undraw_questions_re_1fy7.svg">
@@ -439,7 +443,7 @@ preload: false
 </div>
 
 
-<video class="absolute right-10 top-5 h-120" autoplay loop>
+<video class="absolute right-10 top-5 h-120" autoplay loop controls>
   <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235(1).mp4" >
 </video>
 
@@ -499,7 +503,7 @@ preload: false
 </div>
 
 
-<video class="absolute right-10 top-5 h-120" autoplay loop>
+<video class="absolute right-10 top-5 h-120" autoplay loop contorls>
   <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235.mp4" >
 </video>
 
