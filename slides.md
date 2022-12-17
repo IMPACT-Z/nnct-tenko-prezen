@@ -296,7 +296,7 @@ preload: false
 </div>
 <div class="h-3"></div>
 <h1 style="font-size: 44px;">
-    IPチェック[^1]
+    IPチェック
 </h1>
 <div class="h-1"></div>
 
@@ -308,6 +308,7 @@ preload: false
 - 寮には寮生が使用できるネットワークがある(通称: **寮ネット**)
 - 寮ネットは**同一グローバルIP**
 - **寮ネットに接続しているか否か**を判定できる
+- デモ版では，皆さんに使っていただくために無効化されています
 </div>
 </div>
 
@@ -496,6 +497,12 @@ h1 {
   -moz-text-fill-color: transparent; */
 }
 </style>
+---
+
+# 管理パネル
+
+<img class="w-full" src="https://media.discordapp.net/attachments/719199923782025257/1052583777290944623/Screenshot_from_2022-12-14_22-51-16.png?width=720&height=356">
+
 
 ---
 layout: center
