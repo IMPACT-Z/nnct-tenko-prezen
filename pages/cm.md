@@ -3,7 +3,7 @@ layout: center
 class: 'text-center'
 ---
 
-# 点呼の現状
+<h1 style="font-size: 64px;" class="flex items-center">点呼の現状</h1>
 <!--
 この，点呼の現状ですが―
 -->
@@ -12,8 +12,18 @@ class: 'text-center'
 
 <div class="mt-35 text-center pr-100">
 
+
+<div style="font-size: 48px;">
+
 ## 点呼の現状
+
+</div>
+<div class="h-4"></div>
+<div style="font-size: 64px;">
+    
 # 決まった時間
+
+</div>
 
 <div class="h-4"/>
 
@@ -27,8 +37,17 @@ class: 'text-center'
 
 <div class="mt-35 text-center pr-100">
 
+<div style="font-size: 48px;">
+
 ## 点呼の現状
+
+</div>
+<div class="h-4"></div>
+<div style="font-size: 64px;">
+    
 # 廊下に出て対面
+
+</div>
 
 <div class="h-4"/>
 
@@ -42,9 +61,17 @@ class: 'text-center'
 
 
 <div class="mt-35 text-center pr-100">
+<div style="font-size: 48px;">
 
 ## 点呼の現状
+
+</div>
+<div class="h-4"></div>
+<div style="font-size: 64px;">
+    
 # 点呼当番が巡回
+
+</div>
 <div class="h-4"/>
 
 ## 割と重労働...
@@ -86,6 +113,7 @@ preload: false
 
 <h1 class="flex mr-auto absolute left-45"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-8"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-8"></h1>
 
+<div class="h-1"></div>
 <div class="h-12" />
 
 # 好きな時間[^1]
@@ -105,13 +133,14 @@ preload: false
 [^2]: [2] メンバーのテスト実施による平均値です
 <style>
 h1 {
-  background-color: #2B90B6;
+  color: #a0a000;
+  /* background-color: #2B90B6;
   background-image: linear-gradient(45deg, #505000 10%, #C0C000 60%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
+  -moz-text-fill-color: transparent; */
 }
 </style>
 
@@ -136,6 +165,7 @@ preload: false
 
 # 室内でOK
 
+<div class="h-1"></div>
 <div class="h-4"/>
 
 ## これでもう風邪をひきません！(びっくり)
@@ -145,13 +175,14 @@ preload: false
 
 <style>
 h1 {
-  background-color: #2B90B6;
+  color: #a0a000;
+  /* background-color: #2B90B6;
   background-image: linear-gradient(45deg, #505000 10%, #C0C000 60%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
+  -moz-text-fill-color: transparent; */
 }
 </style>
 
@@ -173,6 +204,7 @@ preload: false
 
 <h1 class="flex mr-auto absolute left-45"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-8"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-8"></h1>
 
+<div class="h-1"></div>
 <div class="h-12" />
 
 # 管理パネルで一発チェック
@@ -186,13 +218,14 @@ preload: false
 
 <style>
 h1 {
-  background-color: #2B90B6;
+  color: #a0a000;
+  /* background-color: #2B90B6;
   background-image: linear-gradient(45deg, #505000 10%, #C0C000 60%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
+  -moz-text-fill-color: transparent; */
 }
 </style>
 
