@@ -78,7 +78,7 @@ preload: false
 
 <h1 class="flex pb-4"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-15"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-15"></h1>
 
-<img class="absolute right-10 top-10 w-80" src="https://cdn.discordapp.com/attachments/719199923782025257/1053478052446867516/tenko.png">
+<img class="absolute right-10 top-10 w-55" src="https://cdn.discordapp.com/attachments/719199923782025257/1053478052446867516/tenko.png">
 
 <div v-motion
   :initial="{ x: -80 }"
