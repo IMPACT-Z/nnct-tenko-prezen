@@ -338,7 +338,7 @@ preload: false
 </div>
 
 
-<video class="absolute right-10 top-5 h-120" autoplay loop controls>
+<video class="absolute right-10 top-5 h-120" loop controls>
   <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235(1).mp4" >
 </video>
 
@@ -398,7 +398,7 @@ preload: false
 </div>
 
 
-<video class="absolute right-10 top-5 h-120" autoplay loop controls>
+<video class="absolute right-10 top-5 h-120" loop controls>
   <source src="/videos/Screenrecorder-2022-12-14-21-36-11-235.mp4" >
 </video>
 
