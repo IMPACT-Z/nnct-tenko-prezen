@@ -263,7 +263,9 @@ preload: false
   :enter="{ x: 0 }">
 
 <div style="font-size: 36px;">
-不正対策1
+
+## 不正対策1
+
 </div>
 <div class="h-6"></div>
 <h1 style="font-size: 64px;">
@@ -288,13 +290,15 @@ h1 {
 preload: false
 ---
 <div style="font-size: 28px;">
-    不正対策1
+
+## 不正対策1
+
 </div>
-<div class="h-2"></div>
+<div class="h-3"></div>
 <h1 style="font-size: 44px;">
     IPチェック[^1]
 </h1>
-<div class="h-2"></div>
+<div class="h-1"></div>
 
 <div style="font-size: 18px;">
 <div v-motion
@@ -346,7 +350,9 @@ preload: false
   :enter="{ x: 0 }">
 
 <div style="font-size: 36px;">
-不正対策2
+
+## 不正対策2
+
 </div>
 <div class="h-6"></div>
 <h1 style="font-size: 64px;">
@@ -372,9 +378,11 @@ preload: false
 ---
 
 <div style="font-size: 28px;">
-    不正対策2
+
+## 不正対策2
+
 </div>
-<div class="h-2"></div>
+<div class="h-3"></div>
 <h1 style="font-size: 44px;">
     顔認証
 </h1>
@@ -418,8 +426,11 @@ preload: false
 <div v-motion
   :initial="{ x: -80 }"
   :enter="{ x: 0 }">
+
 <div style="font-size: 36px;">
-不正対策3
+
+## 不正対策3
+
 </div>
 <div class="h-6"></div>
 <h1 style="font-size: 64px;">
@@ -446,13 +457,15 @@ preload: false
 ---
 
 <div style="font-size: 28px;">
-    不正対策3
+
+## 不正対策3
+
 </div>
-<div class="h-2"></div>
+<div class="h-3"></div>
 <h1 style="font-size: 44px;">
     3チャレンジ
 </h1>
-<div class="h-2"></div>
+<div class="h-1"></div>
 
 <div v-motion
   :initial="{ x: -80 }"
