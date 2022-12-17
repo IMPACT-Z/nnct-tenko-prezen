@@ -294,7 +294,7 @@ preload: false
 <h1 style="font-size: 44px;">
     IPチェック[^1]
 </h1>
-<div class="h-2"></div>
+<div class="h-1"></div>
 
 <div style="font-size: 18px;">
 <div v-motion
@@ -452,7 +452,7 @@ preload: false
 <h1 style="font-size: 44px;">
     3チャレンジ
 </h1>
-<div class="h-2"></div>
+<div class="h-1"></div>
 
 <div v-motion
   :initial="{ x: -80 }"
