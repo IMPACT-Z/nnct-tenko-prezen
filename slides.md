@@ -27,10 +27,10 @@ layout: center
 <h1 class="flex pb-4"><img src="https://cdn.discordapp.com/attachments/1038262445560565824/1050994403256303696/tenten_icon.png" class="h-40"><img src="https://media.discordapp.net/attachments/1038262445560565824/1050994403633807360/tenten_logo.png?width=720&height=268" class="h-40"></h1>
 
 
-## 衝撃のイナズマZ / IMPACT-Z
+## Hack ID 11: 衝撃のイナズマZ / IMPACT-Z
 
 <!-- 
-それでは，これから「衝撃のイナズマZ」のTENTENについて発表を始めます．
+それでは，これからHack ID 11「衝撃のイナズマZ」のTENTENについて発表を始めます．
 -->
 
 ---
@@ -417,6 +417,10 @@ h1 {
 }
 </style>
 
+<!--
+事前に顔モデルと登録し，顔の認証を行うことで，本人であるかを照合しています
+-->
+
 ---
 layout: center
 class: 'text-center'
@@ -497,13 +501,18 @@ h1 {
   -moz-text-fill-color: transparent; */
 }
 </style>
+<!--
+3チャレンジとは，ランダム方向をユーザーに指示することで，人間であることを証明するプロセスです．これにより，本当に人間が点呼を行っていることを確認することができます．
+-->
 ---
 
 # 管理パネル
 
 <img class="w-full" src="https://media.discordapp.net/attachments/719199923782025257/1052583777290944623/Screenshot_from_2022-12-14_22-51-16.png?width=720&height=356">
 
-
+<!--
+寮生が行った点呼は，教員が管理パネルで簡単に確認することができるようになっています
+-->
 ---
 layout: center
 class: 'text-center'
@@ -525,6 +534,10 @@ preload: false
 # システム構成
 
 <img width="700" class="mx-auto" src="https://user-images.githubusercontent.com/52094083/205087008-723967ad-33a2-4bb3-bc06-cb6ec1571b1b.png">
+
+<!--
+これが全体のシステム構成図です．特に，FrontendとBackendはHTTPとWebsocketを用いてやり取りをしています．
+-->
 
 ---
 
@@ -548,6 +561,10 @@ preload: false
 
 
 </div>
+
+<!--
+Backendでの顔認証はfacenet-python，...
+-->
 
 ---
 layout: center
