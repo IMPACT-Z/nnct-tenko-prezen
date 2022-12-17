@@ -3,7 +3,7 @@ layout: center
 class: 'text-center'
 ---
 
-# 点呼の現状
+<h1 style="font-size: 64px;" class="flex items-center">点呼の現状</h1>
 <!--
 この，点呼の現状ですが―
 -->
